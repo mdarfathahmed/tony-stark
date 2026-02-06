@@ -7,10 +7,8 @@ import ReactDom from "react-dom/client"
 // ])
 
 // const heading = <h1 className="js" id="heading" key={2}>I am JSX</h1>
-
-
-
-let num = 22
+import "./App.css"
+let num = 22;
 const Navbar = () => {
     return (
         <>
