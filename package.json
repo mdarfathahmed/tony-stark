@@ -1,0 +1,29 @@
+{
+  "name": "tony-stark-git",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdarfathahmed/tony-stark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mdarfathahmed/tony-stark/issues"
+  },
+  "homepage": "https://github.com/mdarfathahmed/tony-stark#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
